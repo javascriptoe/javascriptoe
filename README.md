@@ -16,11 +16,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=javascriptoe&theme=flat&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
---
+---
 
 ![Image](https://github.com/user-attachments/assets/c1b62aeb-09d2-4b2a-82ef-ef0c63632729)
 
---
+---
 ## ✨ Featured Projects
 
 - 🔗 [Awesome Portfolio Website](https://github.com/javascriptoe/portfolio)
